@@ -1,0 +1,146 @@
+/*body*/
+body{
+    margin: 2%;
+    border: 1px solid white;
+    padding: 5px;
+    background-color: black;
+}
+
+/*0000000000000000000000000000000000000000000000000000000brandspace*/
+.brandspace{
+    /*background-color: lightblue;*/
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.logospace{
+    background-color:whitesmoke;
+    width: 50px;
+    height: auto;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.namespace{
+    /*background-color: palegreen;*/
+    margin-right: 15%;
+    margin-left: 1%;
+    display: flex;
+    justify-content: center;
+}
+#Name{
+    /*background-color:pink;*/
+}
+.brand{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    letter-spacing: 0.8mm;
+    color: white;
+}
+
+
+/*11111111111111111111111111111111111111111first*/
+.first{
+    /*background-color: lightblue;*/
+    position: relative;
+    justify-content: center;   
+}
+.white{
+    width: 75%;
+    height: auto;
+    margin-left: 12.25%;
+    position: inherit;
+    z-index: 0;
+}
+.cc{
+    width: 20%;
+    height: auto;
+    margin-left: 38%;
+    position: absolute;
+    z-index: 1;
+    left: 5%;
+    top: 37%;
+}
+
+/*222222222222222222222222222222222222222222222second*/
+.second{
+    background-color: lightblue;
+    display: flex;
+    margin-bottom: 15%;
+}
+.frstpart{
+    /* background-color: yellow; */
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+.frstimg{
+    background-color: black;
+    position: inherit;
+    z-index: 0;
+}
+.frsth{
+    /* background-color: rebeccapurple; */
+    height: auto;
+    width: 80%;
+    margin-left: 10%;
+    font-size: 2vw;
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+    top: 36%;
+    line-height: 50%;
+}
+
+
+
+
+.scndpart{
+    /* background-color: lightgreen; */
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+.scndimg{
+    background-color: black;
+    position: inherit;
+    z-index: 0;
+}
+.scndh{
+    /* background-color: rebeccapurple; */
+    height: auto;
+    width: 80%;
+    margin-left: 10%;
+    font-size: 2vw;
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+    top: 36%;
+    line-height: 50%;
+}
+
+h1{
+    font-style: italic;
+}
+.hr1{
+    width: 95%;
+    color: grey;
+    opacity: 50%;
+}
+.hr2{
+    width: 50%;
+    color: grey;
+    opacity: 50%;
+}
+
+/* ##################################footer */
+.footer{
+    color: black;
+    background-color: whitesmoke;
+    padding: 1.5%;
+    text-align: center;
+    font-size: 1.2vw;
+}
