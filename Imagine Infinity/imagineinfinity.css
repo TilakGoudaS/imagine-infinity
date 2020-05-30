@@ -6,7 +6,7 @@ body{
     background-color: black;
 }
 
-/*brandspace*/
+/*0000000000000000000000000000000000000000000000000000000brandspace*/
 .brandspace{
     /*background-color: lightblue;*/
     padding: 5px;
@@ -42,7 +42,7 @@ img{
 }
 
 
-/*first*/
+/*11111111111111111111111111111111111111111first*/
 .first{
     /*background-color: lightblue;*/
     position: relative;
@@ -65,18 +65,17 @@ img{
     top: 37%;
 }
 
-/*second*/
+/*222222222222222222222222222222222222222222222second*/
 .second{
     background-color: lightblue;
     display: flex;
     margin-bottom: 15%;
 }
 .frstpart{
-    background-color: yellow;
+    /* background-color: yellow; */
     display: flex;
     position: relative;
     justify-content: center;
-    line-height: 45%;
 }
 .frstimg{
     background-color: black;
@@ -84,25 +83,26 @@ img{
     z-index: 0;
 }
 .frsth{
-    /*background-color: rebeccapurple;*/
+    /* background-color: rebeccapurple; */
     height: auto;
     width: 80%;
+    margin-left: 10%;
     font-size: 2vw;
     position: absolute;
     z-index: 1;
     text-align: center;
     top: 36%;
+    line-height: 50%;
 }
 
 
 
 
 .scndpart{
-    background-color: lightgreen;
+    /* background-color: lightgreen; */
     display: flex;
     position: relative;
     justify-content: center;
-    line-height: 45%;
 }
 .scndimg{
     background-color: black;
@@ -110,14 +110,16 @@ img{
     z-index: 0;
 }
 .scndh{
-    /*background-color: rebeccapurple;*/
+    /* background-color: rebeccapurple; */
     height: auto;
     width: 80%;
+    margin-left: 10%;
     font-size: 2vw;
     position: absolute;
     z-index: 1;
     text-align: center;
     top: 36%;
+    line-height: 50%;
 }
 
 h1{
@@ -134,9 +136,11 @@ h1{
     opacity: 50%;
 }
 
+/* ##################################footer */
 .footer{
     color: black;
     background-color: whitesmoke;
+    padding: 1.5%;
     text-align: center;
-    font-size: 1.5vw;
+    font-size: 1.2vw;
 }
