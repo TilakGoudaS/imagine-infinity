@@ -50,6 +50,23 @@ img{
     font-style: italic;
 }
 
+.home{
+    /* background-color: yellow; */
+    height: auto;
+    width: auto;
+    margin-top: 2%;
+}
+
+.nav{
+    /* background-color: red; */
+    text-decoration: none;
+    padding: 1%;
+    margin-left: 4.5%;
+    margin-top: 2vw;
+    font-weight: 700;
+    color: whitesmoke;
+}
+
 .container{
     margin-top: 50px;
     margin-bottom: 100px;

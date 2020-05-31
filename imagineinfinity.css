@@ -86,6 +86,7 @@ img{
     /* background-color: rebeccapurple; */
     height: auto;
     width: 80%;
+    color: black;
     margin-left: 10%;
     font-size: 2vw;
     position: absolute;
@@ -113,6 +114,7 @@ img{
     /* background-color: rebeccapurple; */
     height: auto;
     width: 80%;
+    color: black;
     margin-left: 10%;
     font-size: 2vw;
     position: absolute;
